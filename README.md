@@ -1,2 +1,2 @@
 # websiteportfolio
-version control for port website
+version control and central repo for porfolio website
